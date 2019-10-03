@@ -27,7 +27,7 @@ module.exports = {
    */
   build: {
     /*
-     ** Run ESLINT on save
+     ** 这里是配置eslint的loader
      */
     extend (config, ctx) {
       if (ctx.isClient) {
