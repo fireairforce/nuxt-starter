@@ -3,7 +3,8 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'starter',
+    title: 'nuxt-learn',
+    // 配置页面的编码之类的相关功能
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
